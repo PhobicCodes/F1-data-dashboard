@@ -1,0 +1,12 @@
+name: f1-dashboard
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - tk
+  - pip
+  - pip:
+      - requests
